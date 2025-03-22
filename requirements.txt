@@ -1,0 +1,12 @@
+Flask
+flask-cors
+lida
+pandas
+matplotlib
+openai
+pymongo
+requests
+python-dotenv
+gunicorn
+Werkzeug
+numpy
